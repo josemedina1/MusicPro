@@ -2,12 +2,12 @@
 
 # TECNOLOGIAS / LENGUAJES /LIBRERIAS
 
-```
+<img src="https://img.shields.io/badge/JavasCript-FFDB58" alt="JavasCript"/>
 Python - Django, Flask, request, requests, jsonify, flask_cors, Javascript - JQuery, HTML, CSS, Bootstrap.
-```
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-** Para poder utilizar estas librerias se deben instalar con los siguientes comandos:**
+**Para poder utilizar estas librerias se deben instalar con los siguientes comandos**
 ```
     pip install Flask
 ```
