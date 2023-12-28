@@ -15,7 +15,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-**Para poder utilizar estas librerias se deben instalar con los siguientes comandos**
+**Instalar las siguientes dependencias**
 ```
     pip install Flask
 ```
