@@ -7,12 +7,20 @@ Python - Django, Flask, request, requests, jsonify, flask_cors, Javascript - JQu
 ```
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-```
 ** Para poder utilizar estas librerias se deben instalar con los siguientes comandos:**
+```
     - pip install Flask
+```
+```
     - pip install request
+```
+```
     - pip install requests
+```
+```
     - pip install jsonify
+```
+```
     - pip install flask_cors
 ```
 
