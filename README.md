@@ -4,8 +4,12 @@
 
 <div>
     <img src="https://img.shields.io/badge/JavasCript-FFDB58" alt="JavasCript"/>
-    <img src="https://img.shields.io/badge/Python-blue" alt="Python-Django"/>
-    Python - Django, Flask, request, requests, jsonify, flask_cors, Javascript - JQuery, HTML, CSS, Bootstrap.
+    <img src="https://img.shields.io/badge/JQuery-DAF7A6" alt="JQuery"/>
+    <img src="https://img.shields.io/badge/Python_Django-blue" alt="Python-Django"/>
+    <img src="https://img.shields.io/badge/Flask-7B7B7C" alt="Flask"/>
+    <img src="https://img.shields.io/badge/HTML-FF5733" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS-23BFF5" alt="CSS"/>
+    <img src="https://img.shields.io/badge/Bootstrap-581845" alt="Bootstrap"/>
 </div>
 
 
