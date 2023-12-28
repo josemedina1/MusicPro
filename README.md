@@ -34,7 +34,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# INSTRUCCIONES EJECUTAR SERVIDOR
+# INSTRUCCIONES PARA EJECUTAR SERVIDOR
 
 **Entrar en carpeta api-rest-cliente-transbank**
 
@@ -49,35 +49,46 @@ py manage.py.
 ```
 
 Luego se utiliza la extencion **LIVE SERVER- GO LIVE** para acceder a la vista.
-Finalmente accedemos a la carpeta "portal-web".
+
+Finalmente accedemos a la carpeta **"portal-web"**.
 
 <img src="document/img/Servidor.gif" alt="integracion-transbank.drawio" width="600px">
 
 # CARRO DE COMPRAS
-```
+
 Agrega un producto al carro de compras con el boton AGREGAR AL CARRITO y abre el carro,
 click en boton PAGAR para acceder a Transbank.
-```
+
 <img src="document/img/Agregar_producto.gif" alt="integracion-transbank.drawio" width="600px">
 
-**TARJETA Y CREDENCIALES**
-```
-REDCOMPRA: 4051 8842 3993 7763
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-Rut: 11.111.111-1
+# CREDENCIALES TRANSBANK
 
-Clave: 123
+**REDCOMPRA**
 ```
+4051 8842 3993 7763
+```
+
+**Rut**
+```
+11.111.111-1
+```
+
+**Clave**
+```
+123
+```
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="document/img/Pago.gif" alt="integracion-transbank.drawio" width="600px">
 
-# CODIGOS APIS
-```
-API Productos Mockapi
-```
+# CONSUMO DE APIS
+
+**API Productos Mockapi**
+
 <img src="document/img/Codigo_APIS.gif" alt="integracion-transbank.drawio" width="600px">
 
-```
-API dolar Mindicador
-```
+**API dolar Mindicador**
+
 <img src="document/img/Api_dolar.gif" alt="integracion-transbank.drawio" width="600px">
