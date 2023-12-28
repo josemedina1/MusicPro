@@ -8,7 +8,7 @@ Python - Django, Flask, request, requests, jsonify, flask_cors, Javascript - JQu
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ```
-Para poder utilizar estas librerias se deben instalar con los siguientes comandos:
+** Para poder utilizar estas librerias se deben instalar con los siguientes comandos:**
     - pip install Flask
     - pip install request
     - pip install requests
@@ -20,9 +20,14 @@ Para poder utilizar estas librerias se deben instalar con los siguientes comando
 
 # INSTRUCCIONES EJECUTAR SERVIDOR
 ```
-Entrar en carpeta api-rest-cliente-transbank "CD api-rest-cliente-transbank",
+**Entrar en carpeta api-rest-cliente-transbank**
+
+"CD api-rest-cliente-transbank",
+
 luego se debe correr el servidor con el siguiente comando: 
-py manage.py.
+
+-py manage.py.
+
 Luego se utiliza la extencion LIVE SERVER- GO LIVE para acceder a la vista.
 Finalmente accedemos a la carpeta "portal-web".
 ```
