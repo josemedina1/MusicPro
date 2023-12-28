@@ -54,6 +54,8 @@ Finalmente accedemos a la carpeta **"portal-web"**.
 
 <img src="document/img/Servidor.gif" alt="integracion-transbank.drawio" width="600px">
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # CARRO DE COMPRAS
 
 Agrega un producto al carro de compras con el boton AGREGAR AL CARRITO y abre el carro,
@@ -79,9 +81,10 @@ click en boton PAGAR para acceder a Transbank.
 ```
 123
 ```
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="document/img/Pago.gif" alt="integracion-transbank.drawio" width="600px">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # CONSUMO DE APIS
 
