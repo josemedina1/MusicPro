@@ -5,7 +5,7 @@
 <div>
     <img src="https://img.shields.io/badge/JavasCript-FFDB58" alt="JavasCript"/>
     <img src="https://img.shields.io/badge/JQuery-DAF7A6" alt="JQuery"/>
-    <img src="https://img.shields.io/badge/Python_Django-blue" alt="Python-Django"/>
+    <img src="https://img.shields.io/badge/Python-you_Django-blue" alt="Python-Django"/>
     <img src="https://img.shields.io/badge/Flask-7B7B7C" alt="Flask"/>
     <img src="https://img.shields.io/badge/HTML-FF5733" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS-23BFF5" alt="CSS"/>
