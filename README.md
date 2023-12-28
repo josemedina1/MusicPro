@@ -19,18 +19,16 @@ Python - Django, Flask, request, requests, jsonify, flask_cors, Javascript - JQu
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # INSTRUCCIONES EJECUTAR SERVIDOR
-```
+
 **Entrar en carpeta api-rest-cliente-transbank**
 
 "CD api-rest-cliente-transbank",
 
 luego se debe correr el servidor con el siguiente comando: 
-
 -py manage.py.
-
 Luego se utiliza la extencion LIVE SERVER- GO LIVE para acceder a la vista.
 Finalmente accedemos a la carpeta "portal-web".
-```
+
 <img src="document/img/Servidor.gif" alt="integracion-transbank.drawio" width="600px">
 
 # CARRO DE COMPRAS
