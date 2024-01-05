@@ -90,8 +90,10 @@ click en boton PAGAR para acceder a Transbank.
 
 **API Productos Mockapi**
 
+URL del sitio web Mockapi, para crear nuestra api con los campos que sean necesarios.
+
+```
+https://mockapi.io/
+```
+
 <img src="document/img/Codigo_APIS.gif" alt="integracion-transbank.drawio" width="600px">
-
-**API dolar Mindicador**
-
-<img src="document/img/Api_dolar.gif" alt="integracion-transbank.drawio" width="600px">
