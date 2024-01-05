@@ -52,7 +52,7 @@ Luego se utiliza la extencion **LIVE SERVER- GO LIVE** para acceder a la vista.
 
 Finalmente accedemos a la carpeta **"portal-web"**.
 
-<img src="document/img/Servidor.gif" alt="integracion-transbank.drawio" width="600px">
+<img src="document/img/levantarServicio.gif" alt="integracion-transbank.drawio" width="600px">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -61,7 +61,7 @@ Finalmente accedemos a la carpeta **"portal-web"**.
 Agrega un producto al carro de compras con el boton AGREGAR AL CARRITO y abre el carro,
 click en boton PAGAR para acceder a Transbank.
 
-<img src="document/img/Agregar_producto.gif" alt="integracion-transbank.drawio" width="600px">
+<img src="document/img/carroCompras.gif" alt="integracion-transbank.drawio" width="600px">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
